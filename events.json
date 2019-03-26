@@ -31,6 +31,7 @@
      "lat":52.3666038,
      "lng":4.8927232,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -45,6 +46,7 @@
      "lat":33.949326,
      "lng":-84.12596,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -64,6 +66,7 @@
      "lat":30.267153,
      "lng":-97.7430608,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -78,6 +81,7 @@
      "lat":41.3850639,
      "lng":2.1734035,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -92,6 +96,7 @@
      "lat":37.8688033,
      "lng":-122.25769170000001,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -201,7 +206,7 @@
      "lat":52.517,
      "lng":13.3889,
      "type":"image",
-     "size": "20",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -221,6 +226,7 @@
      "lat":40.0165447,
      "lng":-105.28168599999998,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -235,6 +241,7 @@
      "lat":48.390394,
      "lng":4.486076,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -249,6 +256,7 @@
      "lat":50.937531,
      "lng":6.9602786,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -263,6 +271,7 @@
      "lat":50.1109221,
      "lng":8.6821267,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -277,6 +286,7 @@
      "lat":-28.016667,
      "lng":153.4,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -296,6 +306,7 @@
      "lat":53.5503,
      "lng":10.0007,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -310,6 +321,7 @@
      "lat":22.396428,
      "lng":114.109497,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -324,6 +336,7 @@
      "lat":50.06465,
      "lng":19.94498,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -338,6 +351,7 @@
      "lat":50.8798438,
      "lng":4.7005176,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -352,6 +366,7 @@
      "lat":46.0569465,
      "lng":14.5057515,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -371,6 +386,7 @@
      "lat":51.5073509,
      "lng":-0.1277583,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -385,6 +401,7 @@
      "lat":43.0726733,
      "lng":-89.41240040000002,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -414,6 +431,7 @@
      "lat":25.773892,
      "lng":-80.19491699999998,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -428,6 +446,7 @@
      "lat":44.9740787,
      "lng":-93.23738839999999,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -452,6 +471,7 @@
      "lat":55.755826,
      "lng":37.6172999,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -466,6 +486,7 @@
      "lat":19.0759837,
      "lng":72.8776559,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -505,6 +526,7 @@
      "lat":29.950989,
      "lng":-90.06827479999998,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -539,6 +561,7 @@
      "lat":40.7625578,
      "lng":-73.97950750000001,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -553,6 +576,7 @@
      "lat":46.482526,
      "lng":30.7233095,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -577,6 +601,7 @@
      "lat":45.4290472,
      "lng":-75.6933383,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -606,6 +631,7 @@
      "lat":29.426275,
      "lng":-98.49350900000002,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -620,6 +646,7 @@
      "lat":37.7749295,
      "lng":-122.4194155,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -639,6 +666,7 @@
      "lat":37.3382082,
      "lng":-121.8863286,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -658,6 +686,7 @@
      "lat":9.935598,
      "lng":-84.09705,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -672,6 +701,7 @@
      "lat":47.6049806,
      "lng":-122.3339312,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -701,6 +731,7 @@
      "lat":31.23333,
      "lng":121.41667,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -715,6 +746,7 @@
      "lat":52.0704978,
      "lng":4.3006999,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -734,6 +766,7 @@
      "lat":35.6894875,
      "lng":139.6917064,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -768,6 +801,7 @@
      "lat":52.0907374,
      "lng":5.1214201,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -782,6 +816,7 @@
      "lat":48.2081743,
      "lng":16.3738189,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -796,6 +831,7 @@
      "lat":54.6871555,
      "lng":25.2796514,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -810,6 +846,7 @@
      "lat":52.2296756,
      "lng":21.0122287,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -824,6 +861,7 @@
      "lat":51.1078852,
      "lng":17.0385376,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
@@ -838,6 +876,7 @@
      "lat":47.1497017,
      "lng":8.5477714,
      "type":"image",
+     "size": "15",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   }
 ]
