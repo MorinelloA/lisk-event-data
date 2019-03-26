@@ -186,6 +186,16 @@
            "startdate":"2018-11-30",
            "enddate":"2018-11-30",
            "url":"https://lisk.io/events/react-day-berlin"
+        },
+        {
+           "startdate":"2019-03-28",
+           "enddate":"2019-03-28",
+           "url":"https://lisk.io/events/react-open-source-meetup"
+        },
+        {
+           "startdate":"2019-03-29",
+           "enddate":"2019-03-29",
+           "url":"https://lisk.io/events/lisk-blockchain-week-breakfast"
         }
      ],
      "lat":52.517,
