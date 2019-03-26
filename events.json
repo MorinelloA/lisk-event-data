@@ -201,6 +201,7 @@
      "lat":52.517,
      "lng":13.3889,
      "type":"image",
+     "size": "20",
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
