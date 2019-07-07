@@ -735,6 +735,21 @@
      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
   },
   {
+      "name":"Singapore",
+      "dates":[
+         {
+            "startdate":"2019-11-14",
+            "enddate":"2019-11-14",
+            "url":"https://lisk.io/events/blockshow-asia-2019"
+         }
+      ],
+      "lat":1.352083,
+      "lng":103.819836,
+      "type":"image",
+      "size": "15",
+      "image_url":"https://github.com/MorinelloA/lisk-event-data/blob/master/lisk.png?raw=true"
+   },
+  {
      "name":"The Hague",
      "dates":[
         {
@@ -801,7 +816,17 @@
            "startdate":"2019-06-20",
            "enddate":"2019-06-20",
            "url":"https://lisk.io/events/lisk-center-utrecht-5"
-        }
+        },
+        {
+            "startdate":"2019-07-24",
+            "enddate":"2019-07-24",
+            "url":"https://lisk.io/events/lisk-center-utrecht-6"
+         },
+         {
+            "startdate":"2019-08-15",
+            "enddate":"2019-08-15",
+            "url":"https://lisk.io/events/lisk-blockchain-week-meetup-7"
+         }
      ],
      "lat":52.0907374,
      "lng":5.1214201,
@@ -876,7 +901,12 @@
            "startdate":"2018-07-06",
            "enddate":"2018-07-06",
            "url":"https://lisk.io/events/techcrunch-sessions"
-        }
+        },
+        {
+            "startdate":"2018-06-25",
+            "enddate":"2018-06-25",
+            "url":"https://lisk.io/events/blockchain-inside-meetup-zug"
+         }
      ],
      "lat":47.1497017,
      "lng":8.5477714,
