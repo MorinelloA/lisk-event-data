@@ -201,7 +201,37 @@
            "startdate":"2019-03-29",
            "enddate":"2019-03-29",
            "url":"https://lisk.io/events/lisk-blockchain-week-breakfast"
-        }
+        },
+        {
+            "startdate":"2019-08-19",
+            "enddate":"2019-08-21",
+            "url":"https://lisk.io/events/web3summit-2019"
+         },
+         {
+            "startdate":"2019-08-20",
+            "enddate":"2019-08-20",
+            "url":"https://lisk.io/events/ux-ui-meetup-2019"
+         },
+         {
+            "startdate":"2019-08-21",
+            "enddate":"2019-08-21",
+            "url":"https://lisk.io/events/lisk-ui-testing-2019"
+         },
+         {
+            "startdate":"2019-08-27",
+            "enddate":"2019-08-27",
+            "url":"https://lisk.io/events/coding-berlin-meetup"
+         },
+         {
+            "startdate":"2019-08-28",
+            "enddate":"2019-08-28",
+            "url":"https://lisk.io/events/lisk-alpha-sdk-workshop-1"
+         },
+         {
+            "startdate":"2019-08-29",
+            "enddate":"2019-08-29",
+            "url":"https://lisk.io/events/blockchain-nights-1"
+         }
      ],
      "lat":52.517,
      "lng":13.3889,
